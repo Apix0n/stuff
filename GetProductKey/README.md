@@ -3,7 +3,7 @@ GetProductKey is a script that gets a Windows computer's product key(s)
 
 ## 💾 Download:
 
-* [For Windows](https://github.com/Apix0n/stuff/tree/main/GetProductKey/GetProductKey.bat): `https://github.com/Apix0n/stuff/tree/main/GetProductKey/GetProductKey.bat`
+* [Direct download for Windows](https://raw.githubusercontent.com/Apix0n/stuff/main/GetProductKey/GetProductKey.bat): `https://raw.githubusercontent.com/Apix0n/stuff/main/GetProductKey/GetProductKey.bat`
 
 ## 🧪 Tested on:
 
