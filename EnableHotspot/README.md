@@ -3,8 +3,17 @@ EnableHotspot is a script that enables a Windows computer's Mobile Hotspot featu
 
 ## 💾 Downloads:
 
-* [Batch file](https://github.com/Apix0n/stuff/tree/main/EnableHotspot/EnableHotspot.bat) (`.bat`): `https://github.com/Apix0n/stuff/tree/main/EnableHotspot/EnableHotspot.bat`
-* [PowerShell script](https://github.com/Apix0n/stuff/tree/main/EnableHotspot/EnableHotspot.ps1) (`.ps1`): `https://github.com/Apix0n/stuff/tree/main/EnableHotspot/EnableHotspot.ps1`
+* EnableHotspot
+    * Enables the Mobile Hotspot feature.
+    * Can be used indefinitely.
+    * [Batchfile](https://github.com/Apix0n/stuff/tree/main/EnableHotspot/EnableHotspot.bat) (`.bat`): `https://github.com/Apix0n/stuff/tree/main/EnableHotspot/EnableHotspot.bat`
+    * [PowerShell script](https://github.com/Apix0n/stuff/tree/main/EnableHotspot/EnableHotspot.ps1) (`.ps1`): `https://github.com/Apix0n/stuff/tree/main/EnableHotspot/EnableHotspot.ps1`
+
+* QuickInstall-Hotspot
+    * Puts the SSID & Passphrase in a file, creates a QR Code, downloads `EnableHotspot.bat` and puts in into the `Startup` folder.
+    * Should only be ran once.
+    * [Batchfile](https://github.com/Apix0n/stuff/tree/main/EnableHotspot/QuickInstall-Hotspot.bat) (`.bat`): `https://github.com/Apix0n/stuff/tree/main/EnableHotspot/QuickInstall-Hotspot.bat`
+    * [PowerShell script](https://github.com/Apix0n/stuff/tree/main/EnableHotspot/QuickInstall-Hotspot.ps1) (`.ps1`): `https://github.com/Apix0n/stuff/tree/main/EnableHotspot/QuickInstall-Hotspot.ps1`
 
 ## 🧪 Tested on:
 
